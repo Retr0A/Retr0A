@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Creativengine
 - 🌱 I’m currently learning C++, C#, Java
-- 👯 I’m looking to collaborate on Game Engines
+- 👯 I’m looking to collaborate on Game Engine
 - 🤔 I’m looking for help with My Game Engine
 - 💬 Ask me about My Repositories
 - 📫 How to reach me: alexxretr0a@gmail.com
