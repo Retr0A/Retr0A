@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: There is no fun fact.
 -->
 
-- 🔭 I’m currently working on SurBo
+- 🔭 I’m currently working on Hero Jumper
 - 🌱 I’m currently learning C++, C#, Java
-- 👯 I’m looking to collaborate on SurBox
-- 🤔 I’m looking for help with My Life
+- 👯 I’m looking to collaborate on LWJGL Games
+- 🤔 I’m looking for help with LWJGL
 - 💬 Ask me about My Repositories
 - 📫 How to reach me: alexxretr0a@gmail.com
 - ⚡ Fun fact: There is no fun fact.
