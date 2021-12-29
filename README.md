@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: alexxretr0a@gmail.com
 - ⚡ Fun fact: There is no fun fact.
 
-- I`m working currently on SurBox with my friend.
+- I`m working currently on SurBox with my friend too.
